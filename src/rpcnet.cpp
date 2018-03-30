@@ -20,6 +20,8 @@
 
 #include <boost/foreach.hpp>
 
+#include "univalue/univalue.h"
+
 #include "json/json_spirit_value.h"
 
 using namespace json_spirit;
